@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(132, 132, 239);
+}
+h1{
+    color: red;
+    border-color: solid black;
+    padding: 0px 50px;;
+}
